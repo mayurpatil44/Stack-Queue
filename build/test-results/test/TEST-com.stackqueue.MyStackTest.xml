@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stackqueue.MyStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-02T19:37:06" hostname="DESKTOP-45808RR" time="0.088">
+  <properties/>
+  <testcase name="given3NumbersWhenAddedToStackShouldHaveLastAddedNode" classname="com.stackqueue.MyStackTest" time="0.088"/>
+  <system-out><![CDATA[MyNodes70->30->56
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
