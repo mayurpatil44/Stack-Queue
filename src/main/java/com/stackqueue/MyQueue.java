@@ -19,5 +19,9 @@ public class MyQueue <K>{
     {
         myLinkedList.printMyNodes();
     }
+    public INode<K> dequeue()
+    {
+        return myLinkedList.popLast();
+    }
 
 }
