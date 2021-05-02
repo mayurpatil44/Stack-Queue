@@ -6,3 +6,5 @@ com/stackqueue/MyLinkedList.java
  com.stackqueue.MyLinkedList
 com/stackqueue/MyStack.java
  com.stackqueue.MyStack
+com/stackqueue/MyQueue.java
+ com.stackqueue.MyQueue
